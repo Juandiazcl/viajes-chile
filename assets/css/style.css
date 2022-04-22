@@ -1,20 +1,23 @@
-/* SELECTOR DE ETIQUETA */
-
-body 
-{
-    font-family: 'Raleway';
-    color: #ffffff;
+/* colores */
+body {
+    background-color: black;
+    color: white;
 }
 
-hr {
-    position: relative;
-    top: 20px;
-    border: none;
-    height: 12px;
-    background: black;
-    margin-bottom: 50px;
+#blanco, .iconoBlanco {
+    color: white;
 }
-.navbar{
-    background-color: transparent !important;
-    color: #ffffff;
+
+h5 {
+    color: aquamarine;
 }
+
+/* fuentes */
+* {
+    font-family: 'Lobster', cursive;
+}
+
+p {
+    font-family: '', cursive;
+}
+
