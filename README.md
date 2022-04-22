@@ -1,103 +1,50 @@
-# Título del Proyecto
-
 Viajes Chile
 
-## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+Comenzando 🚀
+Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Mira Deployment para conocer como desplegar el proyecto.
 
+Pre-requisitos 📋
+Que cosas necesitas para instalar el software y como instalarlas
 
-### Pre-requisitos 📋
-
-Bootstrap 5.1
-Font Awesome
-Google Fonts
-```
-
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
+IDE (cualquiera, en este caso se use vsCode)
+Navegador (cualquiera, en este caso se uso Chrome)
+Instalación 🔧
 
 
+Crea un directorio en el cuál alojarás el proyecto.
+Inicia el proyecto en tu IDE.
 
-## Autores ✒️
+Finaliza con un ejemplo de cómo obtener datos del sistema
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+Inicializar o aperturar el archivo index.html en tu navegador.
 
+Ejecutando las pruebas ⚙️
+Explica como ejecutar las pruebas automatizadas para este sistema
 
+Despliegue 📦
+Agrega notas adicionales sobre como hacer deploy Verificar rutas relativas del proyecto de los archivos contenidos en la carpeta assets.
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+Construido con 🛠️
+Menciona las herramientas que utilizaste para crear tu proyecto
 
-## Licencia 📄
+Visual Studio Code - Editor de texto utilizado.
+Boostrap - Framework de estilos utilizados. -version 5.1.3
+Jquery CDN - Utilizado para generar RSS. -version 3.6.0 min
+Fontawesome - Framework para los iconos
+Fontawesome CDN - CDN utilizado para libreria externa -version 6.1.1
+GoogleFonts - Libreria externa para las fuentes.
+GoogleFontsCDN - Fuentes usadas
+Contribuyendo 🖇️
+Por favor lee el CONTRIBUTING.md para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Autores ✒️
+Juan Diaz Villegas
 
-## Expresiones de Gratitud 🎁
+Licencia 📄
+Open Source, libreta.
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
-
-
-
----
-⌨️ con ❤️ por (https://github.com/) 😊
+Expresiones de Gratitud 🎁
+Gracias a Los relatores de Edutecno que me llevaron a aprender y poder realizar esto.
